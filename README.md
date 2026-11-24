@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Productivity-Desktop-Sticky-Notes/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Productivity-Desktop-Sticky-Notes?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Productivity-Desktop-Sticky-Notes/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Productivity-Desktop-Sticky-Notes?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Productivity-Desktop-Sticky-Notes/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Productivity-Desktop-Sticky-Notes?style=social" alt="GitHub Forks" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,9 +64,9 @@ The sector exhibits **moderate fragmentation with strong barbell concentration**
 
 ## 💻 Open-Source GitHub Projects
 
-> Ranked in descending order of GitHub community stars ⭐. Star badges link directly to each repository's stargazers page.
+> Ranked in descending order of GitHub community GitHub_Stars ⭐. Stars_Badges link directly to each repository's stargazers page.
 
-| Repository 📂 | Stars ⭐ | Primary Tech Stack 🛠️ | Description & Architecture Highlights 📝 |
+| Repository 📂 | GitHub_Stars ⭐ | Primary Tech Stack 🛠️ | Description & Architecture Highlights 📝 |
 | :--- | :--- | :--- | :--- |
 | **[usememos/memos](https://github.com/usememos/memos)** | <a href="https://github.com/usememos/memos/stargazers"><img src="https://img.shields.io/github/stars/usememos/memos?style=social&color=white" alt="Stars"/></a> | Go, React, SQLite, Tailwind | Privacy-first, lightweight self-hosted memo hub and Google Keep alternative with a clean microblogging timeline and Markdown support. |
 | **[laurent22/joplin](https://github.com/laurent22/joplin)** | <a href="https://github.com/laurent22/joplin/stargazers"><img src="https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white" alt="Stars"/></a> | TypeScript, React Native, Electron | Robust note-taking and to-do application with complete end-to-end encryption (E2EE), Markdown editor, web clipper, and sync via Nextcloud/S3/Dropbox. |
@@ -108,7 +108,7 @@ Contributions are warmly welcomed! Help keep this curated list up to date and ac
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-note-tool`).
 3. ✍️ **Add or update an entry** in `README.md`:
    - For SaaS tools: Include specific pricing tiers, explicit free tier limits, company valuation, and factual descriptions.
-   - For Open-Source tools: Include valid GitHub links, accurate star badges linked to stargazers, and tech stack tags.
+   - For Open-Source tools: Include valid GitHub links, accurate Stars_Badges linked to stargazers, and tech stack tags.
 4. 🧪 **Check Markdown formatting** and ensure table alignments remain pristine.
 5. 🚀 **Submit a Pull Request** with a descriptive summary of your additions.
 
